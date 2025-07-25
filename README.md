@@ -24,18 +24,18 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/pearcepackman/smart-home-sensor-system">Smart Home Sensor System</a></strong><br>
+  <strong><a href="https://github.com/pearcepackman/Smart-home-dashboard">Smart Home Sensor System</a></strong><br>
   Full-stack IoT platform using ESP32 firmware (C++), Node.js + SQLite backend, and Dockerized React Native frontend.
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/pearcepackman/snapmotive">SnapMotive</a></strong><br>
+  <strong><a href="https://github.com/KentTDang/SnapMotive">SnapMotive</a></strong><br>
   Hackathon-winning React Native app for image-based goal tracking.<br>
   Awarded Best Computer Vision at HackHounds 2025.
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/pearcepackman/projects-simplified">Projects Simplified</a></strong><br>
+  <strong><a href="https://github.com/pearcepackman/ProjectManagementSite">Projects Simplified</a></strong><br>
   Task manager with full-stack CRUD, JWT authentication, and Heroku deployment.
 </p>
 
