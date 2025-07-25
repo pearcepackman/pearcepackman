@@ -2,18 +2,40 @@
 
 <p align="center">
   <strong>Computer Science Student @ UMBC</strong><br>
-  <em>Graduating December 2026</em>
+  <em>Graduating December 2026 | GPA: 3.79</em><br>
+  <em><a href="https://damslabumbc.github.io/" target="_blank">Undergraduate Research Assistant for the DAMS Lab</a></em><br>
+</p>
+
+<br>
+<p align="center">
+  I build full-stack web apps, embedded systems, and real-time system tools.<br>
+  C++/Qt developer, Linux enthusiast, and contributor to embedded IoT research.<br>
+  Creator of CorePanel (C++ hardware monitor) and Smart Home Sensor System (ESP32 + Dockerized full-stack).
+</p>
+
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <strong><a href="https://github.com/pearcepackman/CorePanel">CorePanel</a></strong><br>
+  Real-time Windows hardware monitor built in C++/Qt with a C# backend. Streams CPU/GPU/RAM metrics via stdout and renders live QtCharts.<br>
+  Released as <strong>v1.0.0</strong>
 </p>
 
 <p align="center">
-  I love building full-stack web projects and embedded systems!
+  <strong><a href="https://github.com/pearcepackman/smart-home-sensor-system">Smart Home Sensor System</a></strong><br>
+  Full-stack IoT platform using ESP32 firmware (C++), Node.js + SQLite backend, and Dockerized React Native frontend.
 </p>
 
 <p align="center">
-  <strong>Currently Working On:</strong><br>
-  • CorePanel – C++ Qt-based hardware monitor<br>
-  • Smart Library – IoT project at the <a href="https://damslabumbc.github.io/" target="_blank">UMBC DAMS Lab</a><br>
-  • Becoming internship & interview ready!
+  <strong><a href="https://github.com/pearcepackman/snapmotive">SnapMotive</a></strong><br>
+  Hackathon-winning React Native app for image-based goal tracking.<br>
+  Awarded Best Computer Vision at HackHounds 2025.
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/pearcepackman/projects-simplified">Projects Simplified</a></strong><br>
+  Task manager with full-stack CRUD, JWT authentication, and Heroku deployment.
 </p>
 
 <p align="center">
