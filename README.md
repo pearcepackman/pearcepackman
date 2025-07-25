@@ -8,6 +8,7 @@
 
 <br>
 <p align="center">
+  Hi! I'm Pearce, welcome to my github!<br>
   I build full-stack web apps, embedded systems, and real-time system tools.<br>
   C++/Qt developer, Linux enthusiast, and contributor to embedded IoT research.<br>
   Creator of CorePanel (C++ hardware monitor) and Smart Home Sensor System (ESP32 + Dockerized full-stack).
