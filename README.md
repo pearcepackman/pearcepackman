@@ -38,10 +38,39 @@
   Task manager with full-stack CRUD, JWT authentication, and Heroku deployment.
 </p>
 
+<h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearcepackman&layout=compact&theme=radical" />
-
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/LibreHardwareMonitor-222222?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/QtCharts-41CD52?style=flat&logo=qt&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white" />
+  <img src="https://img.shields.io/badge/i3wm-1C1C1C?style=flat&logo=i3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon_Winner-FF4081?style=flat&logo=devpost&logoColor=white" />
+</p>
+
+
+
+<h2 align="center">Contact</h2>
 
 <p align="center">
   Thanks for visiting my profile!<br>
