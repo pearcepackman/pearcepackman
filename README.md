@@ -39,6 +39,13 @@
   Task manager with full-stack CRUD, JWT authentication, and Heroku deployment.
 </p>
 
+<p align="center">
+  <strong><a href="https://github.com/pearcepackman/PersonalWebsite">Personal Portfolio</a></strong><br>
+  Personal portfolio site built with React, JavaScript, and CSS. Custom layout and design, responsive UI/UX, and deployed on Netlify.<br>
+  Live site is linked below in Contact
+</p>
+
+
 <h2 align="center">Languages & Tools I've Used</h2>
 
 <p align="center">
@@ -88,3 +95,4 @@
   <a href="https://www.linkedin.com/in/pearce-packman/" target="_blank">🔗 LinkedIn</a> |
   <a href="mailto:pearcepackman@gmail.com">📧 Email</a>
 </p>
+
