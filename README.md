@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Science Student @ UMBC</strong><br>
-  <em>Graduating December 2026 | GPA: 3.79</em><br>
+  <em>Graduating December 2026 | GPA: 3.81</em><br>
   <em><a href="https://damslabumbc.github.io/" target="_blank">Undergraduate Research Assistant for the DAMS Lab</a></em><br>
 </p>
 
